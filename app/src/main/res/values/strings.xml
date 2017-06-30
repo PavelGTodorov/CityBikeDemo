@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">City Bike Demo</string>
+    <string name="title_activity_maps">City Bike Demo Map View</string>
+    <string name="greeting">City Bike Demo Application</string>
+    <string name="citySelection">Select City: </string>
+    <string name="refresh">Refresh</string>
+    <string name="changeCity">Change City</string>
+    <string name="poweredBy">Powered by citybik.es</string>
+    <string name="title_activity_list">City Bike Demo List View</string>
+    <string name="listViewButton">Show as List</string>
+    <string name="mapViewButton">Show on the Map</string>
+</resources>
